@@ -2,4 +2,4 @@
 
 1. Food Menu
 2. Scroll Project
-3. Examine and Result Related
+3. Exam and Result Related
